@@ -23,7 +23,7 @@ This app can be deployed on play store.
 * JAVA
 
 ## View on tablet
-<img src="https://github.com/NischayChauhan/CardSliderApp/blob/master/Screenrecorder-2020-05-07-01-00-30-540.gif" width="1000" height="600">
+<img src="https://github.com/NischayChauhan/CardSliderApp/blob/master/Screenrecorder-2020-05-07-01-00-30-540.gif" width="600" height="600">
 
 ## Authors
 
